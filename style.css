@@ -579,7 +579,7 @@ nav {
 .page5-container {
   height: 120vh;
   width: 100%;
-  background-image: url(maxresdefault.webp);
+  background-image: url(images/maxresdefault.webp);
   object-fit: cover;
   position: relative;
 }
